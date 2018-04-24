@@ -1,0 +1,33 @@
+2017，BeiJing，11.49/Hour，2000/Month
+	http://www.bjrbj.gov.cn/xxgk/zcfg/201707/t20170713_66689.html
+
+2018，Washington D.C.，11.50/Hour，2000/Month
+	https://wallstreetcn.com/articles/341789
+
+BeiJing	Pricce
+	http://www.beijingprice.cn/jfcx/
+
+Washington D.C. Price
+	Null
+				China						USA
+
+Rice			362KG（2.76/500g）
+
+Flour			508KG（1.97/500g）
+
+Beef			27KG（37.13/500g）
+
+Pork			65KG（15.43/500g）
+
+Egg				243KG（4.11/500g）
+
+Potato			515KG（1.94/500g）
+
+Electricity		2537kW·h（0.7883/kW·h）
+
+Water			222m3（9/m3）
+
+Gas				513m3（3.9/m3）
+
+gasoline		289L（6.93/L）
+
