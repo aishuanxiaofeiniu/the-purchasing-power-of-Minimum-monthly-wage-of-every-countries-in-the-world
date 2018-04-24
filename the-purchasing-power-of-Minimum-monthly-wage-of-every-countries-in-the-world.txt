@@ -11,23 +11,23 @@ Washington D.C. Price
 	Null
 				China						USA
 
-Rice			362KG（2.76/500g）
+Rice			362 KG（2.76/500g）
 
-Flour			508KG（1.97/500g）
+Flour			508 KG（1.97/500g）
 
-Beef			27KG（37.13/500g）
+Beef			27 KG（37.13/500g）
 
-Pork			65KG（15.43/500g）
+Pork			65 KG（15.43/500g）
 
-Egg				243KG（4.11/500g）
+Egg				243 KG（4.11/500g）
 
-Potato			515KG（1.94/500g）
+Potato			515 KG（1.94/500g）
 
-Electricity		2537kW·h（0.7883/kW·h）
+Electricity		2537 kW·h（0.7883/kW·h）
 
-Water			222m3（9/m3）
+Water			222 m3（9/m3）
 
-Gas				513m3（3.9/m3）
+Gas				513 m3（3.9/m3）
 
-gasoline		289L（6.93/L）
+gasoline		289 L（6.93/L）
 
